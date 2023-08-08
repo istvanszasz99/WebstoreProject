@@ -1,0 +1,226 @@
+[
+ {
+    "id": 1,
+    "name": "Aphrodité pizza",
+    "desc": "tejföl, roston csirkehús, feta sajt, mozzarella, koktélparadicsom, olívabogyó, bazsalikom",
+    "price": 2190,
+    "pic": "img/PizzaURL3.jpg"
+},
+{
+    "id": 2,
+    "name": "Bellagio pizza",
+    "desc": "pizzaszósz, mozzarella, erős pepperóni paprika, tojás, paradicsom, roston csirke, rukkola, mediterrán sonka, mascarpone",
+    "price": 2990,
+    "pic": "img/PizzaURL1.jpg"
+},
+{
+    "id": 3,
+    "name": "Bivalymozzarellás pizza érlelt sonkával",
+    "desc": "pizzaparadicsom, bivalymozzarella sajt, mediterrán sonka, olívabogyó, paradicsom, bazsalikomlevél",
+    "price": 2990,
+    "pic": "img/PizzaURL1.jpg"
+},
+{
+    "id": 4,
+    "name": "Bolognai pizza",
+    "desc": "pizzaparadicsom, mozzarella, zöldséges, darált húsos ragu",
+    "price": 2990,
+    "pic": "img/PizzaURL4.jpg"
+},
+{
+    "id": 5,
+    "name": "Bugaci májas pizza",
+    "desc": "pizzaparadicsom, mozzarella, csirkemájas ragu, hegyes erős paprika, csípős",
+    "price": 1890,
+    "pic": "img/PizzaURL4.jpg"
+},
+{
+    "id": 6,
+    "name": "Chicken carbonara pizza",
+    "desc": "fokhagymás besamel, sonka, bacon, roston csirke, parmezán, mozzarella, lila hagyma, újhagyma",
+    "price": 2790,
+    "pic": "img/PizzaURL5.jpg"
+},
+{
+    "id": 7,
+    "name": "Csirkés BBQ pizza",
+    "desc": "barbecue szósz, roston csirkehús, bacon, kaliforniai paprika, füstölt mozzarella",
+    "price": 2390,
+    "pic": "img/PizzaURL2.jpg"
+},
+{
+    "id": 8,
+    "name": "Csirkés taco pizza",
+    "desc": "pizzaparadicsom, mozzarella, roston csirkehús, vöröshagyma, tejföl, paradicsomkarika, tacofűszer, csípős",
+    "price": 2090,
+    "pic": "img/PizzaURL4.jpg"
+},
+{
+    "id": 9,
+    "name": "Duplán jó! Két kolbászos-két sajtos pizza",
+    "desc": "pizzaparadicsom, füstölt mozzarella, natúr mozzarella, chorizó, kolbász, csípős",
+    "price": 2290,
+    "pic": "img/PizzaURL7.jpg"
+},
+{
+    "id": 10,
+    "name": "Fokhagymás, tejfölös csirkés pizza",
+    "desc": "fokhagyma, tejföl, mozzarella, roston csirkehús",
+    "price": 2090,
+    "pic": "img/PizzaURL7.jpg"
+},
+{
+    "id": 11,
+    "name": "Fokhagymás, tejfölös pizza",
+    "desc": "fokhagyma, tejföl, mozzarella, paprikás vastagkolbász, sonka, hagyma, paradicsomkarika",
+    "price": 2090,
+    "pic": "img/PizzaURL7.jpg"
+},
+{
+    "id": 12,
+    "name": "Hawaii pizza",
+    "desc": "pizzaparadicsom, mozzarella, kukorica, sonka, ananász",
+    "price": 2190,
+    "pic": "img/PizzaURL5.jpg"
+},
+{
+    "id": 13,
+    "name": "Hús hússal pizza",
+    "desc": "pizzaparadicsom, mozzarella, tarja, paprikás vastagkolbász, roston csirkehús, bacon, mediterrán sonka",
+    "price": 2390,
+    "pic": "img/PizzaURL4.jpg"
+},
+{
+    "id": 14,
+    "name": "Jalapeno papa pizza",
+    "desc": "pizzaparadicsom, mozzarella, roston csirkehús, bacon, jalapeno, csípős",
+    "price": 2190,
+    "pic": "img/PizzaURL5.jpg"
+},
+{
+    "id": 15,
+    "name": "Juhtúrós-csirkés pizza",
+    "desc": "pizzaparadicsom, roston csirkehús, vöröshagyma, paradicsom, kaliforniai paprika, juhtúró, mozzarella",
+    "price": 2190,
+    "pic": "img/PizzaURL3.jpg"
+},
+{
+    "id": 16,
+    "name": "Keménylegény pizza",
+    "desc": "tejföl, mustár, fokhagyma, mozzarella, főtt-füstölt tarja, főtt-füstölt császárszalonna, hegyes erős paprika, csípős",
+    "price": 2090,
+    "pic": "img/PizzaURL5.jpg"
+},
+{
+    "id": 17,
+    "name": "Magyaros pizza",
+    "desc": "pizzaparadicsom, mozzarella, gomba, szalámi, hagyma, hegyes erős paprika, csípős",
+    "price": 2090,
+    "pic": "img/PizzaURL5.jpg"
+},
+{
+    "id": 18,
+    "name": "Mérges vagyok! pizza",
+    "desc": "fokhagymás besamel, bacon, főtt-füstölt tarja, paprikás vastagkolbász, jalapeno, hegyes erős paprika, mozzarella",
+    "price": 2690,
+    "pic": "img/PizzaURL5.jpg"
+},
+{
+    "id": 19,
+    "name": "Mexikói pizza",
+    "desc": "pizzaparadicsom, mozzarella, kukorica, császárszalonna, bab, chili, csípős",
+    "price": 2090,
+    "pic": "img/PizzaURL6.jpg"
+},
+{
+    "id": 20,
+    "name": "Mint a moziban pizza",
+    "desc": "darált marhahús, tarja, cheddar sajtkrém, mozzarella, nachos, jalapeno, lila hagyma",
+    "price": 2790,
+    "pic": "img/PizzaURL3.jpg"
+},
+{
+    "id": 21,
+    "name": "Négysajtos, rukkolás pizza",
+    "desc": "pizzaparadicsom, mozzarella, füstölt mozzarella sajt, trappista sajt, márványsajt, rukkola",
+    "price": 2090,
+    "pic": "img/PizzaURL1.jpg"
+},
+{
+    "id": 22,
+    "name": "Parmezán sajtban sült pizza",
+    "desc": "alul parmezán, felül sajtkrém, sajt, camembert sajt, mozzarella sajt, magok",
+    "price": 2790,
+    "pic": "img/PizzaURL7.jpg"
+},
+{
+    "id": 23,
+    "name": "Pepe margaritája pizza",
+    "desc": "pizzaparadicsom, dupla mozzarella sajt, bazsalikom",
+    "price": 1890,
+    "pic": "img/PizzaURL1.jpg"
+},
+{
+    "id": 24,
+    "name": "Pepperoni pizza",
+    "desc": "pizzaparadicsom, mozzarella, paprikás vastagkolbász",
+    "price": 2190,
+    "pic": "img/PizzaURL5.jpg"
+},
+{
+    "id": 25,
+    "name": "Pizza a la gyros",
+    "desc": "fokhagyma, tejföl, mozzarella, kígyóuborka, lila hagyma, roston csirkehús, gyrosfűszer",
+    "price": 2090,
+    "pic": "img/PizzaURL2.jpg"
+},
+{
+    "id": 26,
+    "name": "Rangers pizza",
+    "desc": "BBQ, sajtkrém, roston csirkehús, császárszalonna, paradicsomkarika, mozzarella",
+    "price": 2190,
+    "pic": "img/PizzaURL4.jpg"
+},
+{
+    "id": 27,
+    "name": "SonGoKu pizza",
+    "desc": "pizzaparadicsom, mozzarella, sonka, gomba, kukorica",
+    "price": 2190,
+    "pic": "img/PizzaURL2.jpg"
+},
+{
+    "id": 28,
+    "name": "Sonkás pizza",
+    "desc": "pizzaparadicsom, mozzarella, sonka",
+    "price": 2090,
+    "pic": "img/PizzaURL2.jpg"
+},
+{
+    "id": 29,
+    "name": "Sonkás, gombás pizza",
+    "desc": "pizzaparadicsom, mozzarella, sonka, gomba",
+    "price": 2090,
+    "pic": "img/PizzaURL2.jpg"
+},
+{
+    "id": 30,
+    "name": "Tonhalas pizza",
+    "desc": "fokhagymás tejföl, tonhal, olívabogyó, kapribogyó, citrom, mozzarella",
+    "price": 2290,
+    "pic": "img/PizzaURL7.jpg"
+},
+{
+    "id": 31,
+    "name": "Capricciosa pizza normál tésztával",
+    "desc": "pizzaszósz, fokhagyma, gomba, olívabogyó, articsóka, aszalt paradicsom, koktélparadicsom, csípős pfefferoni paprika, érlelt sonka, chorizo, mozzarella sajt, bazsalikom",
+    "price": 2490,
+    "pic": "img/PizzaURL6.jpg"
+},
+{
+    "id": 32,
+    "name": "Sajtimádó pizza",
+    "desc": "cheddar sajtszósz, parmezán sajt, natúr mozzarella sajt, trappista sajt, márványsajt, feta sajt, camembert sajt",
+    "price": 2890,
+    "pic": "img/PizzaURL2.jpg"
+}
+]
