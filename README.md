@@ -1,5 +1,5 @@
 # Pizza Time Webstore
-Fictive Web Store, using React and Tailwind CSS. This project was made as a university project for web development homework.
+Fictive WebStore, using React and Tailwind CSS. This project was made as a university project for web development homework.
 I styled the page myself and wrote the code for it. Every assets I used in the project was free. The language of the application is Hungarian.
 
 ## Features
